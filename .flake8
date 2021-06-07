@@ -1,4 +1,4 @@
 [flake8]
 
 select =
-    D203 # Missing docstring in public function
+    D103 # Missing docstring in public function
